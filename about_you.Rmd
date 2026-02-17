@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Zoilo Franco"
 output: 
   html_document:
     number_sections: true
@@ -17,23 +17,23 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attend Lancaster High School. I graduated a couple years ago. For me math has been easier than english. It came to me easier and I progressed farther along in math than english. The subject I did best in was engineering. Due to my STEM background I had multitude of experience that aloud me to excel in that subject.
 
      
 
 
 ## Your computer and your and its capability?  
- For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+   For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  I have a Windows computer. On a scale of 1 to 10 in computer knowledge, I am probably a 7-8 since I don't know all the Linux stuff. I have access to internet and is have a great connection where I live.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  I prefer to be called Zoilo.
    
  
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+  I want to become a game developer and a game development company owner. The subject I think would be of the greatest interest to me will be this class in AVC and if I transfer to USC the game development classes over there. I seek to get my bachelors of game development and interactive design at USC.
    
  
 
@@ -55,7 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+  I have been to Japan and France. I want to go to Italy, China, and maybe the Philippines. I have not been in the military and the branch I would choose would have to be Airforce due to my STEM background.
    
   
 
@@ -68,7 +68,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+  I am taking Math 116. No, I didn't know that Math 115 only satisfies a general education and am glad I took Math 116. I don't know what grade I need to attain in stats to not upset my future plan but I seek to get an A or at least a B.
    
  
 
